@@ -25,3 +25,6 @@ set number
 set wrap
 set cpoptions+=n
 let &showbreak='↪ '
+
+" Use visual bell instead of beeping
+set visualbell
