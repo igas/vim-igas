@@ -7,3 +7,6 @@ nnoremap <C-L> <C-W><C-L>
 " Encodings
 set encoding=utf-8
 set fileencodings=utf8,cp1251
+
+" Fallback for bash incompatible shells like fish
+set shell=bash
