@@ -13,3 +13,7 @@ set shell=bash
 
 " Terminal number of colors
 set t_Co=256
+
+" Display unprintable characters
+set list
+set listchars=tab:▸\ ,eol:¬
