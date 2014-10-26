@@ -1,3 +1,6 @@
+" Turn off Vi-compatibility
+set nocompatible
+
 " Shortcuts for moving between splits
 nnoremap <C-H> <C-W><C-H>
 nnoremap <C-J> <C-W><C-J>
