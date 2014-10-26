@@ -10,3 +10,6 @@ set fileencodings=utf8,cp1251
 
 " Fallback for bash incompatible shells like fish
 set shell=bash
+
+" Terminal number of colors
+set t_Co=256
