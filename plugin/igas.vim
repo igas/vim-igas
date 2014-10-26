@@ -17,3 +17,6 @@ set t_Co=256
 " Display unprintable characters
 set list
 set listchars=tab:▸\ ,eol:¬
+
+" Display line numbers
+set number
