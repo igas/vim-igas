@@ -31,3 +31,7 @@ set visualbell
 
 " Backspace delete behavior in insert mode
 set backspace=indent,eol,start
+
+" Turn off backups for overwriting files
+set nobackup
+set nowritebackup
