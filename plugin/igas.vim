@@ -28,3 +28,6 @@ let &showbreak='↪ '
 
 " Use visual bell instead of beeping
 set visualbell
+
+" Backspace delete behavior in insert mode
+set backspace=indent,eol,start
