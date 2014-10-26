@@ -20,3 +20,8 @@ set listchars=tab:▸\ ,eol:¬
 
 " Display line numbers
 set number
+
+" Soft wrap
+set wrap
+set cpoptions+=n
+let &showbreak='↪ '
