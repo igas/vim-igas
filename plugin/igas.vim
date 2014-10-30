@@ -38,3 +38,6 @@ set backspace=indent,eol,start
 " Turn off backups for overwriting files
 set nobackup
 set nowritebackup
+
+" Old school 80 columns width
+set colorcolumn=81
