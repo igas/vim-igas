@@ -41,3 +41,6 @@ set nowritebackup
 
 " Old school 80 columns width
 set colorcolumn=81
+
+" Show partial command
+set showcmd
