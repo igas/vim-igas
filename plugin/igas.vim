@@ -44,3 +44,6 @@ set colorcolumn=81
 
 " Show partial command
 set showcmd
+
+" Automatically read file changed outside vim
+set autoread
