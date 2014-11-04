@@ -47,3 +47,7 @@ set showcmd
 
 " Automatically read file changed outside vim
 set autoread
+
+" Set new splits position
+set splitbelow
+set splitright
