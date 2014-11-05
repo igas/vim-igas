@@ -51,3 +51,6 @@ set autoread
 " Set new splits position
 set splitbelow
 set splitright
+
+" Keep indent on new lines
+set autoindent
