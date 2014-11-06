@@ -52,5 +52,6 @@ set autoread
 set splitbelow
 set splitright
 
-" Keep indent on new lines
+" Indent new lines
 set autoindent
+set smartindent
