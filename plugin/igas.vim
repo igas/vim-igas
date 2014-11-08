@@ -24,10 +24,10 @@ set listchars=tab:▸\ ,eol:¬
 " Display line numbers
 set number
 
-" Soft wrap
-set wrap
-set cpoptions+=n
-let &showbreak='↪ '
+" Turn off soft wrap
+set nowrap
+"set cpoptions+=n
+"let &showbreak='↪ '
 
 " Use visual bell instead of beeping
 set visualbell
