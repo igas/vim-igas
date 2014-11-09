@@ -55,3 +55,6 @@ set splitright
 " Indent new lines
 set autoindent
 set smartindent
+
+" Enchanced completion menu
+set wildmenu
