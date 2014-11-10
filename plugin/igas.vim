@@ -58,3 +58,9 @@ set smartindent
 
 " Enchanced completion menu
 set wildmenu
+
+" Search
+set hlsearch
+set incsearch
+set ignorecase
+set smartcase
