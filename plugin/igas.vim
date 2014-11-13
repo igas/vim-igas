@@ -71,3 +71,8 @@ set shiftwidth=2
 set smarttab
 set softtabstop=2
 set tabstop=2
+
+" Plug Settings
+
+" NERD Tree
+map <C-n> :NERDTreeToggle<CR>
