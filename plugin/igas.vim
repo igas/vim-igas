@@ -82,8 +82,5 @@ LuciusWhite
 " NERD Tree
 map <C-n> :NERDTreeToggle<CR>
 
-" ack.vim
-let g:ackprg = 'ag --nogroup --nocolor --column'
-
 " dash.vim
 nmap <silent> gd <Plug>DashSearch
