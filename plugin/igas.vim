@@ -72,6 +72,9 @@ set smarttab
 set softtabstop=2
 set tabstop=2
 
+" Always show status line
+set laststatus=2
+
 " Appearance
 set background=light
 colorscheme lucius
