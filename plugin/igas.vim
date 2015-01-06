@@ -77,6 +77,7 @@ set laststatus=2
 
 " Appearance
 colorscheme gotham256
+let g:lightline = { 'colorscheme': 'gotham256' }
 
 " Plug Settings
 
