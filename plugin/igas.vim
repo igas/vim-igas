@@ -76,9 +76,7 @@ set tabstop=2
 set laststatus=2
 
 " Appearance
-set background=light
-colorscheme lucius
-LuciusWhite
+colorscheme gotham256
 
 " Plug Settings
 
