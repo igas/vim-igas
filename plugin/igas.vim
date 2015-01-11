@@ -76,7 +76,6 @@ set tabstop=2
 set laststatus=2
 
 " Appearance
-let base16colorspace=256
 colorscheme base16-bright
 
 " Plug Settings
