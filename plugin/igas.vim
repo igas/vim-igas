@@ -76,8 +76,8 @@ set tabstop=2
 set laststatus=2
 
 " Appearance
-colorscheme gotham256
-let g:lightline = { 'colorscheme': 'gotham256' }
+let base16colorspace=256
+colorscheme base16-bright
 
 " Plug Settings
 
