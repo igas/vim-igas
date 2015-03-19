@@ -80,9 +80,6 @@ colorscheme base16-bright
 " NERD Tree
 map <C-n> :NERDTreeToggle<CR>
 
-" dash.vim
-nmap <silent> gd <Plug>DashSearch
-
 " Yank text to the OS X clipboard
 noremap <leader>y "*y
 noremap <leader>yy "*Y
