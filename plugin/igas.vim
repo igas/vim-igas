@@ -69,8 +69,14 @@ set tabstop=2
 " Always show status line
 set laststatus=2
 
-" Ser minimal number of screen lines to keep above and below the cursor
+" Set minimal number of screen lines to keep above and below the cursor
 set scrolloff=10
+
+" Set leader key
+let mapleader = " "
+let g:mapleader = " "
+let maplocalleader = " "
+let g:maplocalleader = " "
 
 " Appearance
 colorscheme base16-bright
