@@ -104,6 +104,7 @@ call unite#custom_source('file_rec,file_rec/async,file_mru,file,buffer,grep',
       \ '.pyc',
       \ '.idea',
       \ '_build',
+      \ 'deps',
       \ 'public/uploads',
       \ ], '\|'))
 let g:unite_prompt='» '
