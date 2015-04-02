@@ -85,6 +85,9 @@ noremap <leader>yy "*Y
 " Appearance
 colorscheme base16-bright
 
+" Clipboard integration with system
+set clipboard+=unnamedplus
+
 " Plug Settings
 
 " NERD Tree
