@@ -109,6 +109,11 @@ call unite#custom_source('file_rec,file_rec/async,file_mru,file,buffer,grep',
       \ '_build',
       \ 'deps',
       \ 'public/uploads',
+      \ '**/*.eot',
+      \ '**/*.svg',
+      \ '**/*.ttf',
+      \ '**/*.woff',
+      \ '**/*.woff2',
       \ ])
 call unite#custom#profile('default', 'context', { 'start_insert' : 1 })
 let g:unite_prompt='» '
