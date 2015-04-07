@@ -113,6 +113,8 @@ call unite#custom_source('file_rec,file_rec/async,file_mru,file,buffer,grep',
       \ '**/*.ttf',
       \ '**/*.woff',
       \ '**/*.woff2',
+      \ '**/*.png',
+      \ '**/*.jpg',
       \ ])
 call unite#custom#profile('default', 'context', { 'start_insert' : 1 })
 let g:unite_prompt='» '
