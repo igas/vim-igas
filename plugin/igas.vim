@@ -6,7 +6,7 @@ set encoding=utf-8
 set fileencodings=utf8,cp1251
 
 " Fallback for bash incompatible shells like fish
-set shell=bash
+set shell=zsh
 
 " Terminal number of colors
 set t_Co=256
