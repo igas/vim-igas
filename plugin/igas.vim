@@ -83,7 +83,7 @@ noremap <leader>y "*y
 noremap <leader>yy "*Y
 
 " Appearance
-colorscheme base16-bright
+" colorscheme base16-bright
 
 " Clipboard integration with system
 set clipboard+=unnamedplus
